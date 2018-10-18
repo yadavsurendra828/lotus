@@ -1,0 +1,90 @@
+[18-Apr-2018 12:37:42 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[22-Apr-2018 12:20:21 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[22-Apr-2018 12:20:21 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:38 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:39 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:40 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:40 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:41 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=GBP): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:42 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=GBP): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:43 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=INR): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:43 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=INR): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:44 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=AUD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:44 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=AUD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:45 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=CAD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:46 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=CAD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:47 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=CNY): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:47 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=CNY): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:48 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=TRY): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[30-Apr-2018 16:32:48 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=TRY): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[09-May-2018 11:03:38 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=INR): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[09-May-2018 11:03:49 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=INR): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[14-May-2018 11:53:59 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[14-May-2018 11:53:59 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[14-May-2018 11:54:00 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[14-May-2018 11:54:45 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[14-May-2018 11:54:48 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[24-May-2018 11:07:11 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[29-May-2018 10:25:44 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[29-May-2018 10:25:53 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[29-May-2018 10:26:00 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=GBP): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[29-May-2018 10:26:05 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=AUD): failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[01-Jul-2018 15:26:59 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=INR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[01-Jul-2018 15:26:59 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=INR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[01-Jul-2018 15:27:00 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=INR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[01-Jul-2018 17:26:42 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=INR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[26-Aug-2018 13:41:17 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[26-Aug-2018 13:41:26 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[26-Aug-2018 13:41:30 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[26-Aug-2018 13:42:00 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[24-Sep-2018 11:41:20 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[24-Sep-2018 11:41:35 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[10-Oct-2018 16:06:32 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[10-Oct-2018 16:06:46 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=EUR): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[10-Oct-2018 16:06:56 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21
+[12-Oct-2018 12:10:33 Asia/Dubai] PHP Warning:  fopen(https://api.fixer.io/latest?base=AED&amp;symbols=USD): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lotuyxna/public_html/includes/change_currency.php on line 21

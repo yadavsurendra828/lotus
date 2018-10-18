@@ -1,0 +1,1 @@
+[22-Apr-2018 18:51:36 Asia/Dubai] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 41576 bytes) in /home/lotuyxna/public_html/common/lib.php on line 297
